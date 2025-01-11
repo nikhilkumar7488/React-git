@@ -6,7 +6,7 @@ const Certification = () => {
       title: 'Full Stack Developer Certificate',
       organization: 'Bharat Internship',
       year: '2024',
-      image: '../assets/images/certificate1.jpg',
+      image: '../src/assets/images/certificate1.jpg',
     },
     {
       title: 'Web Development with Python',
