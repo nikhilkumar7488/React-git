@@ -37,7 +37,7 @@ export const Hero = () => {
                         Hi, I am <br /> Nikhil <span className="text-emerald-400">Kumar</span>
                     </h1>
                     <p className="text-xl text-white/80 max-w-lg mx-auto leading-relaxed mb-6">
-                    I am a fullstack developer focusing on creating websites that provides user with best experience.
+                    I am a full-stack developer focusing on creating websites that provide users with the best experience.
                     </p>
 
                     <div className="flex gap-4 justify-center">
