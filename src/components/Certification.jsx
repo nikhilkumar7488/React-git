@@ -1,5 +1,9 @@
 import React from 'react';
 import certificateImage from '../assets/images/certificate1.jpg';
+import certificateImage2 from '../assets/images/certificate6.jpeg';
+import certificateImage3 from '../assets/images/certificate2.jpg';
+import certificateImage4 from '../assets/images/certificate4.png';
+import certificateImage5 from '../assets/images/certificate5.png';
 const Certification = () => {
   const certificates = [
     {
@@ -12,25 +16,25 @@ const Certification = () => {
       title: 'Web Development with Python',
       organization: 'Froyo Technologies Pvt. Ltd.',
       year: '2023',
-      image: '../src/assets/images/certificate6.jpeg',
+      image: certificateImage2,
     },
     {
       title: 'Summer Internship - Web Development',
       organization: 'Coding Blocks',
       year: '2024',
-      image: '../src/assets/images/certificate2.jpg',
+      image: certificateImage3,
     },
     {
       title: 'JavaScript Intermediate',
       organization: 'Sololearn',
       year: '2023',
-      image: '../src/assets/images/certificate4.png',
+      image: certificateImage4,
     },
     {
       title: 'Web Development',
       organization: 'Sololearn',
       year: '2023',
-      image: '../src/assets/images/certificate5.png',
+      image: certificateImage5,
     },
     // {
     //   title: 'JavaScript Mastery',
