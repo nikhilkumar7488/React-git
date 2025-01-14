@@ -12,7 +12,7 @@ export const About = () => {
             <div className="border border-white/20 rounded-lg p-6">
             <h3 className="text-2xl font-bold mb-2">01. Background</h3>
             <p className="text-white/50 mb-6">
-            I'm a passionate full-stack developer with a strong foundation in computer science and a love for creating inovative web solutios. My journey in tech started with a curiosity about how things work, which led me to pursue a carrer in web development </p>
+            I'm a passionate full-stack developer with a strong foundation in computer science and a love for creating innovative web solutions. My journey in tech started with a curiosity about how things work, which led me to pursue a career in web development. </p>
 
             <div className="rounded-lg p-4 mb-4 border border-white/20">
             <code className="text-emerald-200/50">
@@ -49,7 +49,7 @@ export const About = () => {
             <div className="border border-white/20 rounded-lg p-6">
             <h3 className="text-2xl font-bold mb-2">03. Skills</h3>
             <p className="text-white/50 mb-4">
-            I'm proficient in a wide range of technologies and constantly expanding my skills set to stay at the forefront of web devlopment</p>
+            I'm proficient in a wide range of technologies and constantly expanding my skill set to stay at the forefront of web development.</p>
             <div className="grid grid-cols-1 text-center gap-4">
                 <div className="border border-white/20 rounded-lg p-3">
                     <h4 className="text-emerald-300 font-medium mb-2">Frontend</h4>
@@ -110,7 +110,7 @@ export const About = () => {
 
             <h3 className="text-2xl font-bold mt-4 mb-2">04. Approach</h3>
             <p className="text-white/50">
-            I believe in writing clean, maintable code and following best practices. My approach involves understanding client needs, planning thoroughly, and delivering high-quality solutions on time.</p>
+            I believe in writing clean, maintainable code and following best practices. My approach involves understanding client needs, planning thoroughly, and delivering high-quality solutions on time.</p>
             </div>
             <div className="border border-white/20 rounded-lg p-6 flex flex-col justify-between">
             <div className="relative border border-white/20 rounded-lg p-4 h-[200px] overflow-hidden">
@@ -125,7 +125,7 @@ export const About = () => {
             <div>
                 <h3 className="text-2xl font-bold mb-2">05. Goals</h3>
                 <p className="text-white/50">
-                My goal is to continue growing as a developer, tackilng challenging projects, and contributing to the tech community. I'm always excited to learns technologies and push the boundaries of what's possible in web development.
+                My goal is to continue growing as a developer, tackling challenging projects, and contributing to the tech community. I'm always excited to learn new technologies and push the boundaries of what's possible in web development.
                 </p>
             </div>
             </div>
