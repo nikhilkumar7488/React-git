@@ -1,12 +1,12 @@
 import React from 'react';
-
+import certificateImage from '../assets/images/certificate1.jpg';
 const Certification = () => {
   const certificates = [
     {
       title: 'Full Stack Developer Certificate',
       organization: 'Bharat Internship',
       year: '2024',
-      image: '../assets/images/certificate1.jpg',
+      image: certificateImage,
     },
     {
       title: 'Web Development with Python',
